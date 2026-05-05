@@ -9,11 +9,13 @@
   "plugins": [
     {
       "name": "roundhouse",
+      "description": "Rails specialist team for Claude Code. 7-34x cheaper than the comparable claude-on-rails v0.4 swarm across 10 representative tasks. Triages by tier; specialists on Sonnet, orchestrator on Opus.",
+      "category": "language",
       "source": {
-        "source": "github",
-        "repo": "kurenn/roundhouse"
+        "source": "url",
+        "url": "https://github.com/kurenn/roundhouse.git"
       },
-      "description": "Rails specialist team for Claude Code. 7-34x cheaper than the comparable claude-on-rails v0.4 swarm across 10 representative tasks. Triages by tier; specialists on Sonnet, orchestrator on Opus."
+      "homepage": "https://github.com/kurenn/roundhouse"
     }
   ]
 }
