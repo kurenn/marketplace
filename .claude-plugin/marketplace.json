@@ -1,6 +1,6 @@
 {
   "name": "kurenn",
-  "description": "Claude Code plugins for Rails developers — including roundhouse (Rails team simulation) and future tools.",
+  "description": "Claude Code plugins for Rails developers — Rails team simulation, audit, security workflows, and prompt refinement.",
   "owner": {
     "name": "Abraham Kuri",
     "email": "abkuri88@gmail.com",
@@ -16,6 +16,36 @@
         "url": "https://github.com/kurenn/roundhouse.git"
       },
       "homepage": "https://github.com/kurenn/roundhouse"
+    },
+    {
+      "name": "boorails",
+      "description": "Seven Rails-specific skills covering security, quality gates, implementation safety, root-cause diagnosis, framework operating mode, developer experience, and architectural alternatives. Script-first execution with explicit summaries.",
+      "category": "language",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kurenn/boorails.git"
+      },
+      "homepage": "https://kurenn.github.io/boorails/"
+    },
+    {
+      "name": "rails-audit",
+      "description": "Comprehensive Rails project stability audit across 18 dimensions — foundation, domain, specs, deploy/CI, security, money paths, code health, performance, reliability, observability, jobs, data integrity, governance, DX, cost. Read-only; produces a severity-ranked markdown report.",
+      "category": "language",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kurenn/rails-audit.git"
+      },
+      "homepage": "https://github.com/kurenn/rails-audit"
+    },
+    {
+      "name": "prompt-refiner",
+      "description": "Translates casual application requests into detailed, step-by-step technical specifications that AI coding assistants can execute faithfully. Useful as a one-shot refinement at the top of any feature or build task.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kurenn/prompt-refiner-skill.git"
+      },
+      "homepage": "https://github.com/kurenn/prompt-refiner-skill"
     }
   ]
 }
