@@ -1,0 +1,19 @@
+{
+  "name": "kurenn",
+  "description": "Claude Code plugins for Rails developers — including roundhouse (Rails team simulation) and future tools.",
+  "owner": {
+    "name": "Abraham Kuri",
+    "email": "abkuri88@gmail.com",
+    "url": "https://github.com/kurenn"
+  },
+  "plugins": [
+    {
+      "name": "roundhouse",
+      "source": {
+        "source": "github",
+        "repo": "kurenn/roundhouse"
+      },
+      "description": "Rails specialist team for Claude Code. 7-34x cheaper than the comparable claude-on-rails v0.4 swarm across 10 representative tasks. Triages by tier; specialists on Sonnet, orchestrator on Opus."
+    }
+  ]
+}
