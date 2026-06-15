@@ -46,6 +46,13 @@
         "url": "https://github.com/kurenn/prompt-refiner-skill.git"
       },
       "homepage": "https://github.com/kurenn/prompt-refiner-skill"
+    },
+    {
+      "name": "dev-loop",
+      "description": "The virtuous development loop for Rails. Opus plans, a parallel Sonnet specialist army implements (roundhouse), Codex adversarially reviews, a fresh Opus reviewer rates the work against the plan, Sonnet agents fix until an 8.5 quality gate passes, learnings are captured, and a PR is opened.",
+      "category": "productivity",
+      "source": { "source": "url", "url": "https://github.com/kurenn/dev-loop.git" },
+      "homepage": "https://github.com/kurenn/dev-loop"
     }
   ]
 }
