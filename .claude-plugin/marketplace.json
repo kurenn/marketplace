@@ -49,7 +49,7 @@
     },
     {
       "name": "dev-loop",
-      "description": "The virtuous development loop for Rails. Opus plans, a parallel Sonnet specialist army implements (roundhouse), Codex adversarially reviews, a fresh Opus reviewer rates the work against the plan, Sonnet agents fix until an 8.5 quality gate passes, learnings are captured, and a PR is opened.",
+      "description": "The virtuous development loop, for any stack. An Opus 5.5 agent plans, a second Opus 5.5 agent critiques the plan, a parallel Sonnet army executes it in dependency-ordered waves, mechanical checks gate the spend, an adversarial reviewer challenges the approach, a fresh Opus 5.5 rater judges it blind — twice when its verdict is the one that decides the gate — Sonnet agents fix until zero blocking findings remain, learnings are captured, and a PR is opened. Stops once for plan approval; runs fully autonomous only when asked.",
       "category": "productivity",
       "source": { "source": "url", "url": "https://github.com/kurenn/dev-loop.git" },
       "homepage": "https://github.com/kurenn/dev-loop"
